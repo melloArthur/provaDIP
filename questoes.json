@@ -1,0 +1,32 @@
+[
+  {
+    "categoria": "Direito Civil",
+    "pergunta": "A personalidade civil da pessoa começa do nascimento com vida.",
+    "resposta": true,
+    "explicacao": "É a regra do art. 2º do Código Civil."
+  },
+  {
+    "categoria": "Direito Constitucional",
+    "pergunta": "A Constituição Federal admite tribunal de exceção.",
+    "resposta": false,
+    "explicacao": "A Constituição veda juízo ou tribunal de exceção."
+  },
+  {
+    "categoria": "Processo Civil",
+    "pergunta": "Os prazos processuais civis, em regra, são contados em dias úteis.",
+    "resposta": true,
+    "explicacao": "É a regra do art. 219 do CPC."
+  },
+  {
+    "categoria": "Processo Civil",
+    "pergunta": "Embargos de declaração possuem prazo de 15 dias úteis.",
+    "resposta": false,
+    "explicacao": "O prazo dos embargos de declaração é de 5 dias."
+  },
+  {
+    "categoria": "Direito Penal",
+    "pergunta": "Não há crime sem lei anterior que o defina.",
+    "resposta": true,
+    "explicacao": "Trata-se do princípio da legalidade penal."
+  }
+]

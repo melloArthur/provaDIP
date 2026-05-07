@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Quiz V ou F</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <section class="card">
+      <div class="topo">
+        <p class="tag">Quiz</p>
+        <h1>Questões de Verdadeiro ou Falso</h1>
+        <p class="subtitulo">Responda às questões sorteadas aleatoriamente a partir do arquivo <strong>questoes.json</strong>.</p>
+      </div>
+
+      <div class="status">
+        <span id="contador">Questão 0 de 0</span>
+        <span id="pontuacao">Pontuação: 0</span>
+      </div>
+
+      <article class="questao-box">
+        <p id="categoria" class="categoria"></p>
+        <h2 id="pergunta">Carregando questão...</h2>
+      </article>
+
+      <div class="botoes-resposta">
+        <button id="btnVerdadeiro" class="btn resposta" data-resposta="true">Verdadeiro</button>
+        <button id="btnFalso" class="btn resposta" data-resposta="false">Falso</button>
+      </div>
+
+      <div id="resultado" class="resultado oculto"></div>
+
+      <div class="acoes">
+        <button id="btnProxima" class="btn secundario" disabled>Próxima questão</button>
+        <button id="btnReiniciar" class="btn fantasma">Reiniciar</button>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
