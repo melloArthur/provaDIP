@@ -1,32 +1,902 @@
 [
   {
-    "categoria": "Direito Civil",
-    "pergunta": "A personalidade civil da pessoa começa do nascimento com vida.",
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O DIDH é apresentado como área especializada dentro do Direito Internacional Público, voltada à defesa de direitos inerentes à pessoa humana.",
     "resposta": true,
-    "explicacao": "É a regra do art. 2º do Código Civil."
+    "explicacao": "Os slides situam o DIDH no âmbito do DIP, como ramo especializado na proteção dos direitos inerentes a todos os seres humanos."
   },
   {
-    "categoria": "Direito Constitucional",
-    "pergunta": "A Constituição Federal admite tribunal de exceção.",
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A disciplina de DIP é descrita como limitada à relação bilateral entre Estados, sem tutela de temas de interesse global.",
     "resposta": false,
-    "explicacao": "A Constituição veda juízo ou tribunal de exceção."
+    "explicacao": "O DIP é definido como disciplina das relações internacionais e de temas de interesse global."
   },
   {
-    "categoria": "Processo Civil",
-    "pergunta": "Os prazos processuais civis, em regra, são contados em dias úteis.",
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A Cruz Vermelha é apresentada como precedente do DIH anterior à sua codificação, associada à neutralidade e ao socorro a feridos de guerra.",
     "resposta": true,
-    "explicacao": "É a regra do art. 219 do CPC."
+    "explicacao": "Os slides vinculam a Cruz Vermelha ao socorro sem distinção, à neutralidade, à Convenção de Genebra de 1864 e à proteção de prisioneiros."
   },
   {
-    "categoria": "Processo Civil",
-    "pergunta": "Embargos de declaração possuem prazo de 15 dias úteis.",
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A Liga das Nações é tratada como experiência posterior à Segunda Guerra Mundial, criada para responder ao Holocausto.",
     "resposta": false,
-    "explicacao": "O prazo dos embargos de declaração é de 5 dias."
+    "explicacao": "A Liga das Nações aparece como iniciativa de 1919, posterior à Primeira Guerra Mundial e anterior à ONU."
   },
   {
-    "categoria": "Direito Penal",
-    "pergunta": "Não há crime sem lei anterior que o defina.",
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A OIT é apresentada como organismo de 1919 voltado à promoção de padrões mínimos e dignos de trabalho.",
     "resposta": true,
-    "explicacao": "Trata-se do princípio da legalidade penal."
+    "explicacao": "A apresentação associa a OIT à tutela de direitos sociais de caráter trabalhista e a normas internacionais sobre condições de trabalho."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "Os precedentes de internacionalização dos direitos humanos são descritos como um sistema abrangente e plenamente institucionalizado desde o século XIX.",
+    "resposta": false,
+    "explicacao": "A aula enfatiza que os precedentes eram fragmentados, focados em direitos específicos ou situações localizadas."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O fracasso da Liga das Nações é usado como elemento explicativo da busca por mecanismos coletivos mais efetivos de proteção internacional.",
+    "resposta": true,
+    "explicacao": "Os slides ligam a frustração da experiência pós-Primeira Guerra à necessidade de organismos supraestatais."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A Carta de São Francisco é apresentada como marco de 1945 que codificou princípios das relações internacionais e colocou os direitos humanos entre os pilares da ONU.",
+    "resposta": true,
+    "explicacao": "A apresentação menciona igualdade soberana, proibição do uso da força, promoção da paz e dever de promoção dos DH."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A Carta de São Francisco é tratada como documento voltado à reparação individual de vítimas, sem preocupação central com paz e segurança internacional.",
+    "resposta": false,
+    "explicacao": "O objetivo indicado nos slides é formar um corpo internacional para promover a paz e prevenir novas barbáries."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A DUDH é apresentada como resolução da AGNU que, embora inicialmente não vinculante, passou a exercer papel interpretativo e costumeiro em matéria de DH.",
+    "resposta": true,
+    "explicacao": "Os slides indicam que a DUDH não tinha força vinculante por ser resolução, mas parte de seu conteúdo evoluiu como costume e referência interpretativa."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "Segundo a apresentação, a DUDH retirou sua força jurídica originária da aprovação como tratado multilateral ratificado pelos Estados.",
+    "resposta": false,
+    "explicacao": "A DUDH é descrita como resolução da Assembleia Geral da ONU, não como tratado ratificado."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A jurisprudência da CIJ é usada nos slides para reforçar que vida, integridade física, liberdade e igualdade vinculam os Estados, ainda que não haja ratificação específica de tratados.",
+    "resposta": true,
+    "explicacao": "A aula menciona precedentes da CIJ nesse sentido e a noção de princípios gerais do Direito Internacional."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "Os Pactos de 1966 são relacionados à ampliação da proteção internacional e compõem, com a DUDH, a chamada Carta Internacional dos Direitos Humanos.",
+    "resposta": true,
+    "explicacao": "A apresentação identifica o PIDCP e o PIDESC como parte da Carta Internacional dos DH ao lado da DUDH."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A expressão Carta Internacional dos Direitos Humanos, nos slides, corresponde à soma da Carta da ONU com a Convenção Americana de Direitos Humanos.",
+    "resposta": false,
+    "explicacao": "A aula define a Carta Internacional dos DH como DUDH + os dois Pactos de 1966."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O caso Lawless v. Irlanda é apresentado como marco europeu ligado à interpretação internacional do DIDH e à primeira decisão contra um país.",
+    "resposta": true,
+    "explicacao": "Nos anos 60 e 70, o caso é citado como primeira decisão de tribunal internacional envolvendo interpretação do DIDH."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A criação da Corte Interamericana de Direitos Humanos é vinculada, nos slides, à Convenção Americana de 1969 e ao fortalecimento do sistema regional das Américas.",
+    "resposta": true,
+    "explicacao": "A linha do tempo aponta a Convenção Americana de DH de 1969 como marco de criação da Corte IDH."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A Conferência Mundial de Viena de 1993 é apresentada como ruptura com o universalismo e retomada de uma leitura regionalizada dos direitos protegidos.",
+    "resposta": false,
+    "explicacao": "A conferência é associada à consagração do universalismo, da indivisibilidade e da interdependência dos direitos."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A Conferência de Viena de 1993 é mencionada como marco para a criação do Alto Comissariado para os Direitos Humanos.",
+    "resposta": true,
+    "explicacao": "Entre os pontos da aula está o estabelecimento da criação do Alto Comissariado para os DH."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A apresentação associa a consolidação do DIDH à formação de princípios próprios, métodos interpretativos e tratados que limitam a soberania estatal em favor da dignidade humana.",
+    "resposta": true,
+    "explicacao": "Os slides tratam o DIDH como ramo jurídico autônomo, com tratados que vinculam a atuação dos Estados."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A adesão estatal a tratados de DH é explicada exclusivamente por reciprocidade econômica entre os Estados contratantes.",
+    "resposta": false,
+    "explicacao": "Os motivos indicados incluem repúdio a atrocidades, legitimidade internacional, direitos mínimos e mudança de consciência global."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "Direitos do Homem são apresentados como expressão filosófica e jusnaturalista, sem vinculação necessária a uma ordem jurídica positiva específica.",
+    "resposta": true,
+    "explicacao": "A distinção nos slides associa Direitos do Homem a direitos naturais, não escritos ou não positivados."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "Direitos Fundamentais são caracterizados como direitos positivados na ordem jurídica interna, especialmente nos textos constitucionais.",
+    "resposta": true,
+    "explicacao": "A apresentação associa Direitos Fundamentais aos direitos previstos na ordem interna e na Constituição."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "Direitos Humanos, na classificação doutrinária dos slides, são direitos positivados prioritariamente em leis municipais e regulamentos administrativos.",
+    "resposta": false,
+    "explicacao": "Os slides tratam Direitos Humanos como direitos inerentes à pessoa positivados na ordem internacional, por tratados e costumes."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A definição de Dunshee de Abranches destaca a proteção do indivíduo, inclusive apátrida, contra abusos e desvios de poder praticados pelo Estado.",
+    "resposta": true,
+    "explicacao": "A aula indica que a proteção alcança indivíduo de qualquer nacionalidade, inclusive apátrida, e visa defesa contra abusos estatais."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A universalidade, como característica intrínseca do DIDH, significa proteção condicionada à nacionalidade do indivíduo afetado.",
+    "resposta": false,
+    "explicacao": "Universalidade é apresentada como proteção de todos, independentemente de nacionalidade, crença ou outra condição."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "Os deveres estatais no DIDH são apresentados sem a lógica de reciprocidade típica de tratados tradicionais.",
+    "resposta": true,
+    "explicacao": "A característica de deveres estatais indica obrigações sem contraprestação recíproca clássica."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O acesso de indivíduos a instâncias internacionais aparece como traço relevante da institucionalização das garantias internacionais de DH.",
+    "resposta": true,
+    "explicacao": "Os slides apontam que indivíduos podem acionar mecanismos internacionais de supervisão e controle."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "Imprescritibilidade, nos slides, significa que o titular pode transferir o direito humano a terceiro por contrato.",
+    "resposta": false,
+    "explicacao": "Imprescritibilidade refere-se à não perda pelo tempo; transferência se relacionaria à inalienabilidade, que é negada pelos slides."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A inesgotabilidade é apresentada como abertura do rol de DH à ampliação decorrente da evolução social.",
+    "resposta": true,
+    "explicacao": "Os slides indicam que o rol de DH não é fechado e se expande com mudanças sociais."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A proibição do retrocesso é explicada como vedação à redução da proteção já alcançada em matéria de DH.",
+    "resposta": true,
+    "explicacao": "A apresentação usa a ideia de efeito cliquet: a proteção pode ser aprimorada, mas não reduzida."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A indivisibilidade, conforme os slides, hierarquiza os direitos civis e políticos acima dos direitos sociais por serem de primeira dimensão.",
+    "resposta": false,
+    "explicacao": "Indivisibilidade é apresentada como mesma proteção jurídica a todos os DH por serem essenciais à vida digna."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A primeira dimensão é vinculada a direitos civis e políticos, com referências às revoluções liberais.",
+    "resposta": true,
+    "explicacao": "Os slides associam liberdade, direitos civis e políticos, Constituição Americana de 1787 e Declaração Francesa de 1789."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A segunda dimensão é associada a direitos sociais, econômicos e culturais, com referência à Revolução Industrial e ao constitucionalismo social.",
+    "resposta": true,
+    "explicacao": "A aula menciona Constituição Mexicana de 1917, Weimar de 1919 e Tratado de Versalhes/OIT."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A terceira dimensão é exemplificada por direitos de solidariedade, como meio ambiente equilibrado, paz e direitos difusos e coletivos.",
+    "resposta": true,
+    "explicacao": "Os slides situam a fraternidade na terceira dimensão, com exemplos como meio ambiente e água potável."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A quarta dimensão é apresentada como retorno aos direitos civis clássicos, sem relação com tecnologia ou globalização.",
+    "resposta": false,
+    "explicacao": "A quarta dimensão é relacionada à globalização, participação democrática digital e limites à manipulação genética."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O direito à paz aparece como frequentemente associado à quinta dimensão, embora haja classificação alternativa na terceira dimensão.",
+    "resposta": true,
+    "explicacao": "Os slides mencionam a associação do direito à paz à quinta dimensão e a classificação de Karel Vasak na terceira."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O direito humano à água potável é usado como exemplo de expansão contínua dos direitos, com menção à Lei 14.898/2024.",
+    "resposta": true,
+    "explicacao": "A sexta dimensão nos slides destaca a água potável e a contínua expansão dos direitos."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A apresentação considera suficiente a ratificação de tratados com a mesma redação, sem necessidade de interpretação internacional comum.",
+    "resposta": false,
+    "explicacao": "Os slides afirmam que não basta ratificação com mesmo texto; é necessária interpretação comum para implementar o universalismo."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A interpretação internacional dos DH é apresentada como parte do próprio DIDH, ao lado do rol de direitos protegidos.",
+    "resposta": true,
+    "explicacao": "A aula afirma que o DIDH abrange o rol de direitos e os processos internacionais que os interpretam e fiscalizam seu cumprimento."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O desafio indicado nos slides é a tensão entre universalismo na ratificação e localismo na aplicação dos direitos humanos.",
+    "resposta": true,
+    "explicacao": "A apresentação trata da dicotomia entre ratificação universalista e aplicação segundo óticas nacionais."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "No caso brasileiro, a aula sustenta que a interpretação da Convenção Americana pode ser conduzida apenas sob ótica nacional, por ausência de adesão a mecanismos coletivos.",
+    "resposta": false,
+    "explicacao": "Os slides dizem que o Brasil aderiu a mecanismos coletivos, como a Corte IDH, e não pode ignorar a interpretação internacional."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A interpretação pro homine é apresentada como técnica que conjuga normas nacionais e internacionais em favor da proteção mais ampla da pessoa.",
+    "resposta": true,
+    "explicacao": "Os slides falam em conjugação de Constituição, tratados e cortes pelo princípio pro homine."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A interpretação evolutiva pressupõe que tratados de DH sejam aplicados considerando a realidade atual e mudanças sociais.",
+    "resposta": true,
+    "explicacao": "A aula define a interpretação evolutiva como adaptação ao contexto contemporâneo da aplicação."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A interpretação autônoma subordina o sentido dos tratados de DH ao conceito que cada direito recebe no direito interno do Estado demandado.",
+    "resposta": false,
+    "explicacao": "A interpretação autônoma exige leitura conforme o tratado e os valores do DIDH, não conforme o direito interno."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O processo internacional de DH é apresentado como conjunto de mecanismos que pode detectar violações e estabelecer reparações ou sanções.",
+    "resposta": true,
+    "explicacao": "A definição final dos slides segue a formulação de Ramos sobre mecanismos internacionais de análise, detecção e reparação/sanção."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A transnacionalidade dos DH é explicada como reconhecimento e aplicação a todas as pessoas em todos os países.",
+    "resposta": true,
+    "explicacao": "Os slides apresentam a transnacionalidade como aplicabilidade ampla, a todas as pessoas e países."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A essencialidade dos DH, nos slides, traduz sua primazia sobre outras normas do DIP e sua conexão com a dignidade humana.",
+    "resposta": true,
+    "explicacao": "A característica de essencialidade é definida com primazia e expressão da dignidade humana."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A irrenunciabilidade permite ao titular autorizar previamente a violação de seu direito humano, desde que a autorização seja expressa.",
+    "resposta": false,
+    "explicacao": "Irrenunciabilidade significa que nem o titular pode abrir mão ou autorizar a violação do direito."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "O DIDH é apresentado como resposta histórica progressiva, e não como construção instantânea surgida em um único documento.",
+    "resposta": true,
+    "explicacao": "A aula percorre precedentes, Carta da ONU, DUDH, Pactos, sistemas regionais e mecanismos de supervisão."
+  },
+  {
+    "categoria": "Aula 01 - Proteção Internacional dos Direitos Humanos",
+    "pergunta": "A DUDH é tratada como instrumento que impulsionou a criação de novos tratados de direitos humanos.",
+    "resposta": true,
+    "explicacao": "A linha do tempo de 1945/1948 indica que a DUDH estabeleceu rol de direitos fundamentais e impulsionou novos tratados."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O processo internacional de DH pode ser classificado quanto à origem, natureza, finalidade, sujeição passiva e âmbito geográfico.",
+    "resposta": true,
+    "explicacao": "A aula apresenta essas cinco chaves classificatórias do processo internacional de direitos humanos."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Quanto à origem, a aferição internacional de violações é dividida entre mecanismos unilaterais e coletivos ou institucionais.",
+    "resposta": true,
+    "explicacao": "Essa é a primeira classificação indicada nos slides."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Quanto à sujeição passiva, os processos internacionais de DH podem voltar-se contra Estados ou contra indivíduos.",
+    "resposta": true,
+    "explicacao": "A aula distingue processos para responsabilidade estatal e para responsabilidade individual por violações de DH."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A classificação por âmbito geográfico distingue mecanismos políticos de mecanismos judiciários.",
+    "resposta": false,
+    "explicacao": "Político ou judiciário é a classificação quanto à natureza; o âmbito geográfico distingue global/onusiano/universal e regional."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O sistema internacional de DH é apresentado como substituto prioritário do sistema nacional de proteção.",
+    "resposta": false,
+    "explicacao": "A aula afirma que cada Estado possui seu sistema próprio, complementado pelo internacional de forma subsidiária."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Em conflito entre sistemas de proteção, a aula adota a prevalência da norma mais benéfica à pessoa humana.",
+    "resposta": true,
+    "explicacao": "Os slides vinculam essa solução ao princípio pro homine e à proibição do retrocesso."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A proteção dos DH no Brasil é organizada em camadas: sistema interno, sistema global e sistema americano.",
+    "resposta": true,
+    "explicacao": "A aula menciona CRFB e leis internas, DUDH/Pactos globais e Pacto de San José/Protocolo de San Salvador."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O Sistema Global, na aula, é exemplificado pela Convenção Americana de Direitos Humanos e pelo Protocolo de San Salvador.",
+    "resposta": false,
+    "explicacao": "Esses instrumentos são apresentados como parte do Sistema Americano; o Sistema Global envolve DUDH e Pactos da ONU."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Nos sistemas protetivos, a aula destaca a complementariedade entre mecanismos domésticos, ONU e OEA.",
+    "resposta": true,
+    "explicacao": "Os slides tratam de promoção e implementação de DH em âmbito doméstico, universal e regional."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Nos sistemas contenciosos, a atuação internacional é descrita como subsidiária em relação à obrigação primária interna.",
+    "resposta": true,
+    "explicacao": "A primariedade é do Judiciário nacional; o acesso internacional depende, em regra, do esgotamento interno."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O esgotamento das vias internas aparece como requisito relevante para acionar instâncias internacionais contenciosas.",
+    "resposta": true,
+    "explicacao": "A aula expressamente menciona o esgotamento das vias internas como requisito."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A Corte Internacional de Justiça é apresentada como órgão do sistema americano da OEA.",
+    "resposta": false,
+    "explicacao": "A CIJ é vinculada ao âmbito da ONU; no sistema regional americano a referência é à Corte Interamericana."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Cançado Trindade é citado em relação às vertentes de proteção internacional, posteriormente compreendidas como indivisíveis e interdependentes.",
+    "resposta": true,
+    "explicacao": "Os slides indicam que as vertentes foram criadas por Cançado Trindade e que depois ele enfatizou sua indivisibilidade e interdependência."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A divisão entre DIDH, DIH e Direito dos Refugiados é apresentada como fragmentação definitiva da proteção da dignidade humana.",
+    "resposta": false,
+    "explicacao": "A aula afirma que a visão fragmentada é didática, pois as vertentes se complementam."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O DIDH em sentido estrito é descrito como proteção internacional ampla e genérica da dignidade da pessoa humana.",
+    "resposta": true,
+    "explicacao": "A tabela dos slides associa o DIDH a proteção ampla, genérica e independente de raça, sexo, nacionalidade ou condição."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "No DIDH em sentido estrito, a aula admite legitimidade ativa do signatário para denunciar lesões e possibilidade de peticionamento individual perante órgãos internacionais.",
+    "resposta": true,
+    "explicacao": "Essas duas características são indicadas na coluna de DIDH da tabela."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O Direito Internacional Humanitário é apresentado como aplicável a pessoas em conflitos armados, com foco em normas humanitárias durante confrontos.",
+    "resposta": true,
+    "explicacao": "A tabela associa o DIH à proteção de pessoas em situações específicas de conflito armado."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A aula associa o DIH à possibilidade ordinária de peticionamento individual perante comissões internacionais de DH.",
+    "resposta": false,
+    "explicacao": "Na tabela, o peticionamento individual é indicado como característica do DIDH, não do DIH."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O Movimento da Cruz Vermelha aparece como organismo relevante para o DIH, ligado à proteção de combatentes e população civil em zonas de confronto.",
+    "resposta": true,
+    "explicacao": "A coluna do DIH menciona o Movimento da Cruz Vermelha e sua ratificação pelas Convenções de Genebra."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O Direito Internacional dos Refugiados é vinculado ao contexto pós-Segunda Guerra Mundial e ao Estatuto dos Refugiados de 1951.",
+    "resposta": true,
+    "explicacao": "A tabela indica o pós-2ª Guerra como marco e cita o Estatuto dos Refugiados de 1951."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O princípio da não-devolução é associado, nos slides, ao Direito Internacional dos Refugiados.",
+    "resposta": true,
+    "explicacao": "A aula lista os princípios in dubio pro refugiado e não-devolução na vertente dos refugiados."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O princípio pro homine autoriza interpretação de tratados e sentenças internacionais na direção mais favorável à pessoa afetada.",
+    "resposta": true,
+    "explicacao": "Os slides definem o princípio como máxima proteção da pessoa humana."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A máxima efetividade busca extrair das normas de DH seus efeitos mais amplos e benéficos.",
+    "resposta": true,
+    "explicacao": "A aula também chama essa técnica de regra do efeito útil."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A eficácia direta permite ao Estado condicionar a aplicação dos DH à edição de lei interna regulamentadora.",
+    "resposta": false,
+    "explicacao": "A eficácia direta é apresentada em sentido oposto: ausência de lei interna não pode impedir a aplicação."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A interpretação autônoma dos tratados de DH afasta a subordinação do sentido do tratado ao direito interno dos Estados.",
+    "resposta": true,
+    "explicacao": "Os slides dizem que a interpretação se orienta pelos princípios e valores do DIDH."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A interpretação evolutiva considera o conteúdo dos direitos a partir da realidade atual no momento de sua aplicação.",
+    "resposta": true,
+    "explicacao": "A aula reconhece que o conteúdo e o alcance dos DH evoluem com o tempo e mudanças sociais."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A aferição unilateral de violações de DH é apresentada como via dotada de condições de admissibilidade processual comparáveis às dos sistemas coletivos.",
+    "resposta": false,
+    "explicacao": "O mecanismo unilateral é descrito como sem condições de admissibilidade e requisitos para julgamento."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "No mecanismo unilateral, o Estado ofendido pode analisar a responsabilidade internacional de outro Estado por violações de DH.",
+    "resposta": true,
+    "explicacao": "A aula exemplifica com relatórios do Departamento de Estado dos EUA e com o caso Filártiga."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Os relatórios do Departamento de Estado dos EUA são usados como exemplo de mecanismo coletivo universal de apuração.",
+    "resposta": false,
+    "explicacao": "Eles aparecem como exemplo de atuação unilateral baseada em lei interna dos EUA."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O caso Filártiga v. Pena-Irala é mencionado como exemplo de tribunal nacional avaliando tortura praticada por agente de Estado estrangeiro.",
+    "resposta": true,
+    "explicacao": "A aula afirma que o Tribunal Federal dos EUA se considerou competente no caso, com referência a jus cogens."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A aula reconhece resistência de cortes dos EUA à superação da imunidade de jurisdição estatal em casos sem base legal interna clara.",
+    "resposta": true,
+    "explicacao": "O slide observa resistência em eliminar a imunidade tradicional de jurisdição do Estado perante tribunais nacionais."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O Poder Judiciário nacional, ao avaliar violação de DH atribuída a outro Estado, é tratado como órgão neutro acima dos Estados em litígio.",
+    "resposta": false,
+    "explicacao": "A aula ressalta que o Judiciário continua sendo órgão do Estado aos olhos do Direito Internacional."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A preferência por mecanismos coletivos é justificada pela busca de avaliação mais neutra e imparcial da responsabilidade internacional.",
+    "resposta": true,
+    "explicacao": "Os slides contrapõem o impasse de sanções unilaterais à aferição objetiva por mecanismos coletivos."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A natureza objetiva dos tratados de DH afasta a ideia de contraprestação específica entre Estados-partes.",
+    "resposta": true,
+    "explicacao": "A aula cita Ramos: a obrigação é para a sociedade internacional, não mera obrigação entre partes contratantes."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Tratados de DH são apresentados como tratados multilaterais tradicionais voltados à troca recíproca de benefícios.",
+    "resposta": false,
+    "explicacao": "Os slides afirmam expressamente que tratados de DH não seguem essa lógica contratualista tradicional."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A superação da reciprocidade é ligada à finalidade de proteger o indivíduo acima da troca entre Estados.",
+    "resposta": true,
+    "explicacao": "A aula define o objetivo desses tratados como proteção dos DH independentemente da nacionalidade."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A personalidade jurídica internacional do indivíduo é associada à possibilidade de exercer direitos e contrair obrigações diretamente no plano internacional.",
+    "resposta": true,
+    "explicacao": "O slide afirma que o indivíduo conquistou personalidade jurídica internacional por essa atuação direta."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A teoria da margem de apreciação é apresentada como doutrina jurisprudencial desenvolvida pela Corte Europeia de Direitos Humanos.",
+    "resposta": true,
+    "explicacao": "Os slides introduzem a teoria com essa origem jurisprudencial."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Na margem de apreciação, temas de moralidade pública, religião e bioética podem receber maior deferência às comunidades nacionais.",
+    "resposta": true,
+    "explicacao": "A aula elenca esses temas como sensíveis e sujeitos a maior margem estatal."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A presença de consenso entre Estados tende a ampliar a margem de apreciação nacional.",
+    "resposta": false,
+    "explicacao": "A aula afirma que, havendo consenso, a margem tende a ser estreita; na ausência de consenso, tende a ser ampla."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Direitos relevantes para a democracia, como liberdade de expressão, recebem controle internacional mais rigoroso no esquema da margem de apreciação.",
+    "resposta": true,
+    "explicacao": "Os slides indicam controle mais rigoroso para direitos fundamentais à democracia."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "As críticas à margem de apreciação incluem risco de relativização dos DH e insegurança por falta de critérios objetivos.",
+    "resposta": true,
+    "explicacao": "A aula lista essas críticas, além do favorecimento de particularismos nacionais."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A Corte Interamericana utiliza a margem de apreciação com a mesma frequência e amplitude atribuída à Corte Europeia.",
+    "resposta": false,
+    "explicacao": "Os slides afirmam que a Corte IDH a utiliza de modo excepcional, enquanto a Corte Europeia a usa com frequência."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "No caso Castañeda Gutman, a Corte IDH admitiu margem estatal na definição de características do sistema eleitoral.",
+    "resposta": true,
+    "explicacao": "Esse é o exemplo citado na apresentação."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "Na OC 4/1984, a Corte IDH admitiu margem sobre requisitos de naturalização, desde que não fossem arbitrários ou discriminatórios.",
+    "resposta": true,
+    "explicacao": "A aula menciona expressamente essa condição."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O STJ aplicou a teoria da margem de apreciação na discussão sobre compatibilidade do crime de desacato com a CADH.",
+    "resposta": true,
+    "explicacao": "O slide cita HC 379.269-MS, da 3ª Seção do STJ, sobre desacato."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A posição do STF indicada nos slides foi a de não recepção do art. 331 do Código Penal pela Constituição de 1988.",
+    "resposta": false,
+    "explicacao": "A aula aponta que, para o STF, o art. 331 do CP foi recepcionado pela Constituição."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A Corte IDH é citada em sentido crítico ao crime de desacato, por entender que ele pode violar a liberdade de expressão.",
+    "resposta": true,
+    "explicacao": "A aula remete ao caso Palamara Iribarne vs. Chile como posição contrária."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "A margem de apreciação coloca em debate a extensão da intervenção de tribunais internacionais em escolhas políticas, culturais ou morais dos Estados.",
+    "resposta": true,
+    "explicacao": "Essa é a pergunta estruturante apresentada nos slides."
+  },
+  {
+    "categoria": "Aula 03 - Processo Internacional de DH",
+    "pergunta": "O mecanismo unilateral tende a resolver impasses por meio de decisão imparcial de órgão internacional comum aos Estados envolvidos.",
+    "resposta": false,
+    "explicacao": "A solução imparcial é atribuída aos mecanismos coletivos; no unilateral há risco de impasse e sanções recíprocas."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A interpretação teleológica é destacada como especialmente importante por considerar o objetivo e a finalidade do tratado.",
+    "resposta": true,
+    "explicacao": "A aula 4 lista interpretação literal, contextual, teleológica e pro homine, destacando a teleológica."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Em conflito de normas de DH, a escolha deve considerar a norma que mais amplie o gozo do direito ou imponha maiores condições às restrições.",
+    "resposta": true,
+    "explicacao": "Os slides indicam três critérios de maior proteção no conflito de normas de DH."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A internalização de tratado no Brasil, segundo a aula, envolve assinatura internacional, aprovação pelo Congresso, ratificação e depósito, além de promulgação interna.",
+    "resposta": true,
+    "explicacao": "Essa sequência aparece expressamente na aula 4."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O art. 5º, §3º, da CF/88 confere equivalência a emendas constitucionais a tratados de DH aprovados em dois turnos por três quintos em cada Casa do Congresso.",
+    "resposta": true,
+    "explicacao": "A aula 4 reproduz esse regime introduzido pela EC 45/2004."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Tratados de DH aprovados antes da EC 45 ou sem quórum qualificado são apresentados com status supralegal.",
+    "resposta": true,
+    "explicacao": "Na teoria do duplo estatuto, esses tratados ficam acima da lei ordinária e abaixo da Constituição."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A Súmula Vinculante 25 é usada como exemplo de prevalência da prisão civil do depositário infiel no direito brasileiro.",
+    "resposta": false,
+    "explicacao": "A súmula afirma a ilicitude da prisão civil do depositário infiel, em diálogo com o Pacto de San José."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Na corrente restrita do bloco de constitucionalidade, integram o bloco os tratados de DH aprovados pelo rito especial do art. 5º, §3º, da CF.",
+    "resposta": true,
+    "explicacao": "A aula 4 apresenta essa corrente e seus efeitos no controle concentrado."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O controle de convencionalidade difuso, conforme os slides, pode ser realizado pelos tribunais brasileiros em relação a tratados de status constitucional e supralegal.",
+    "resposta": true,
+    "explicacao": "A aula indica controle difuso por juiz, TJ, TRF, STJ e STF em relação a todos os tratados."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O IDC é suscitado pelo Procurador-Geral da República perante o STJ, em hipóteses de grave violação de DH.",
+    "resposta": true,
+    "explicacao": "A aula 4 descreve legitimidade exclusiva do PGR e competência do STJ."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O IDC desloca processos da Justiça Federal para a Justiça Estadual para preservar a autonomia federativa.",
+    "resposta": false,
+    "explicacao": "O mecanismo permite deslocar investigações e processos da Justiça Estadual para a Justiça Federal."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A constatação coletiva internacional é apresentada como forma de reduzir seletividade e parcialidade típicas do mecanismo unilateral.",
+    "resposta": true,
+    "explicacao": "A aula 5 opõe os mecanismos coletivos à parcialidade do unilateral."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Os sistemas internacionais de DH atuam como primeira camada de proteção, com primazia sobre qualquer atuação interna do Estado.",
+    "resposta": false,
+    "explicacao": "A aula 5 afirma que há dupla camada, mas a primazia é do Estado; o internacional atua quando há falha, demora ou negligência."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O sistema universal da ONU combina área convencional, derivada de tratados, e área extraconvencional, derivada de resoluções.",
+    "resposta": true,
+    "explicacao": "Essa divisão estrutura a aula 5."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O sistema convencional de DH da ONU exige ratificação específica, não bastando a condição de membro da ONU.",
+    "resposta": true,
+    "explicacao": "Os slides destacam essa autonomia dos órgãos dos tratados."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Mecanismos não contenciosos da ONU têm foco em monitoramento e cooperação, com relatórios periódicos e comentários gerais.",
+    "resposta": true,
+    "explicacao": "A aula 5 diferencia mecanismos sem litígio direto de mecanismos quase judiciais e judiciais."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "As comunicações individuais perante comitês da ONU dispensam reconhecimento de competência pelo Estado interessado.",
+    "resposta": false,
+    "explicacao": "Os slides indicam que o Estado deve reconhecer a competência do comitê e que há esgotamento de recursos internos."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A CIJ pode julgar disputas entre Estados, mas não oferece acesso direto a indivíduos em matéria de DH.",
+    "resposta": true,
+    "explicacao": "A aula 5 destaca que a CIJ não é corte especializada em DH e que apenas Estados têm legitimidade."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O Conselho de DH da ONU foi criado em 2006, como substituto da Comissão de DH, e é órgão subsidiário da Assembleia Geral.",
+    "resposta": true,
+    "explicacao": "Esses dados constam dos slides da aula 5."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A Revisão Periódica Universal avalia todos os Estados-membros da ONU com base, entre outros elementos, em relatórios estatais e da sociedade civil.",
+    "resposta": true,
+    "explicacao": "A aula 5 descreve a RPU e suas bases informacionais."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Os órgãos dos tratados monitoram cumprimento, interpretam normas e podem analisar relatórios, comunicações individuais e procedimentos investigativos.",
+    "resposta": true,
+    "explicacao": "A aula 5 resume as funções dos treaty bodies nesses termos."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O Pacto de San José é apresentado como documento central do sistema interamericano, com natureza supralegal no Brasil.",
+    "resposta": true,
+    "explicacao": "A aula 6 informa sua promulgação pelo Decreto 678/1992 e seu status supralegal."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A reserva brasileira ao Pacto de San José permite visitas in loco da Comissão Interamericana sem anuência estatal expressa.",
+    "resposta": false,
+    "explicacao": "A aula afirma que visitas e investigações in loco dependem de anuência expressa do Brasil."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A cláusula federal impede que o Estado federal se afaste da responsabilidade internacional alegando repartição interna de competências.",
+    "resposta": true,
+    "explicacao": "A aula 6 conecta o art. 28 do Pacto ao IDC previsto no art. 109, §5º, da CF."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Petições individuais no sistema interamericano são apresentadas diretamente à Corte IDH como órgão investigativo inicial.",
+    "resposta": false,
+    "explicacao": "A petição é dirigida à Comissão Interamericana, que recebe e investiga."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "No sistema interamericano, a mera assinatura do Pacto gera submissão ao sistema de petições individuais, ao passo que comunicações interestatais dependem de aceite.",
+    "resposta": true,
+    "explicacao": "Essa distinção é destacada na aula 6."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A Comissão Interamericana é descrita como órgão executivo e investigativo, enquanto a Corte Interamericana é órgão judicial e consultivo.",
+    "resposta": true,
+    "explicacao": "A aula 6 contrasta Comissão e Corte nesses termos."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A competência contenciosa da Corte IDH depende de reconhecimento específico pelo Estado, como ocorreu com o Brasil em 1998.",
+    "resposta": true,
+    "explicacao": "Os slides indicam que o Brasil promulgou a Convenção em 1992 e reconheceu a competência da Corte em 1998."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O Protocolo de San Salvador é apresentado como adicional à Convenção Americana e voltado a direitos sociais, econômicos e culturais.",
+    "resposta": true,
+    "explicacao": "A aula 6 o associa à segunda dimensão de direitos."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A Carta Africana de Banjul é apresentada como tratado regional que reúne direitos civis e políticos com direitos econômicos, sociais e culturais.",
+    "resposta": true,
+    "explicacao": "A aula 7 destaca que ela venceu a dicotomia tradicional da Guerra Fria."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A Comissão Africana possui recomendações com força vinculante comparável às sentenças de uma corte internacional.",
+    "resposta": false,
+    "explicacao": "Os slides apontam a falta de força vinculante e de mecanismos que assegurem cumprimento de suas recomendações."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O acesso de indivíduos e ONGs à Corte Africana depende de declaração específica do Estado-parte, além de juízo de admissibilidade pela própria Corte.",
+    "resposta": true,
+    "explicacao": "A aula 7 menciona o art. 34.6 do Protocolo e a legitimidade ativa condicionada."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O Tribunal Europeu de DH possui jurisdição obrigatória para os Estados membros e aceita petições individuais após esgotamento das vias internas.",
+    "resposta": true,
+    "explicacao": "A aula 8 descreve legitimidade de indivíduos, ONGs e Estados, com esgotamento prévio."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O Protocolo 11 da Convenção Europeia manteve a Comissão Europeia como filtro obrigatório antes de qualquer acesso individual à Corte.",
+    "resposta": false,
+    "explicacao": "O P-11 extinguiu a Comissão e permitiu acesso direto do indivíduo à Corte."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O caso Handyside é usado para explicar a margem de apreciação nacional em matéria de liberdade de expressão e moral pública.",
+    "resposta": true,
+    "explicacao": "A aula 8 aponta interferência reconhecida, mas reputada necessária para proteção da moral pública."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A Corte Interamericana é apresentada como mais permissiva que a Corte Europeia na aplicação da margem de apreciação.",
+    "resposta": false,
+    "explicacao": "Os slides indicam margem mais restrita na Corte Interamericana e mais permissiva na Corte Europeia."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O DIH regula a condução das hostilidades em conflitos armados e busca proteger categorias de pessoas e objetos.",
+    "resposta": true,
+    "explicacao": "A aula 9 define o DIH como conjunto de normas humanitárias aplicáveis à guerra."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O Direito de Haia é associado à pergunta 'como combater?', abrangendo meios, métodos, armas e alvos.",
+    "resposta": true,
+    "explicacao": "A aula 9 contrapõe Direito de Haia e Direito de Genebra."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O Direito de Genebra é associado prioritariamente à proteção de feridos, doentes, náufragos, prisioneiros e civis afetados por conflitos.",
+    "resposta": true,
+    "explicacao": "A apresentação identifica o Direito de Genebra com a proteção de indivíduos afetados."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O I Protocolo Adicional às Convenções de Genebra reforça distinção e proporcionalidade em conflitos armados internacionais.",
+    "resposta": true,
+    "explicacao": "A aula 9 atribui ao Protocolo I a proteção de vítimas de CAI, com reforço da distinção e proporcionalidade."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O princípio da distinção permite ataques diretos a civis quando o objetivo político do conflito for considerado legítimo.",
+    "resposta": false,
+    "explicacao": "A distinção protege população civil e bens civis; legitimidade política não transforma civis em alvo."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A proporcionalidade é avaliada no planejamento e compara a vantagem militar prevista com danos civis esperados.",
+    "resposta": true,
+    "explicacao": "A aula 10 enfatiza a vantagem militar prevista e a vedação a danos civis excessivos."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "As obrigações de DIH são apresentadas como absolutas, afastando argumentos de reciprocidade como tu quoque e si omnes.",
+    "resposta": true,
+    "explicacao": "A aula 10 afirma que a violação de uma parte não autoriza a outra a descumprir o DIH."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Jus ad bellum regula a conduta das partes durante a guerra, enquanto jus in bello decide se a entrada em guerra é lícita.",
+    "resposta": false,
+    "explicacao": "A relação está invertida: jus ad bellum trata da licitude do uso da força; jus in bello rege a conduta no conflito."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A Carta da ONU admite o uso da força em hipóteses como legítima defesa e ações autorizadas pelo Conselho de Segurança.",
+    "resposta": true,
+    "explicacao": "A aula 10 lista exceções ligadas ao art. 51 e aos arts. 39 a 42 da Carta."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "CANI envolve Estado e ator não estatal organizado, ou atores não estatais entre si, com violência prolongada e intensa.",
+    "resposta": true,
+    "explicacao": "Essa é a distinção feita entre CAI, CANI e conflito internacionalizado."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Combatentes capturados têm status de prisioneiros de guerra em CANI nos mesmos termos aplicáveis ao CAI.",
+    "resposta": false,
+    "explicacao": "Os slides indicam que o status jurídico de prisioneiro de guerra existe em CAI; em CANI o combatente pode ser julgado internamente."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Civis que participam diretamente das hostilidades podem perder proteções enquanto alvos legítimos, sem se tornarem automaticamente combatentes.",
+    "resposta": true,
+    "explicacao": "A aula 10 distingue perda de proteção civil e aquisição automática de status de combatente."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "A perfídia inclui simular rendição, cessar-fogo, incapacidade ou estatuto protegido para obter vantagem no conflito.",
+    "resposta": true,
+    "explicacao": "A aula 11 lista essas formas proibidas de perfídia."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "Bens indispensáveis à sobrevivência da população civil são especialmente protegidos, embora cercos e bloqueios possam existir quando orientados a objetivo militar e não à inanição civil.",
+    "resposta": true,
+    "explicacao": "A aula 11 distingue finalidade militar de condução do adversário à fome da população civil."
+  },
+  {
+    "categoria": "Aulas 04 a 11 - Tratados, Sistemas Regionais e DIH",
+    "pergunta": "O armistício encerra juridicamente a guerra por tratado final de paz imposto pela parte vencedora.",
+    "resposta": false,
+    "explicacao": "Armistício suspende hostilidades de modo formal e duradouro, mas não é paz final; tratado de paz encerra o conflito."
   }
 ]
